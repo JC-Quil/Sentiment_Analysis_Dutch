@@ -11,6 +11,7 @@ Pandas
 matplotlib   
 scikit-learn   
 seaborn   
+NLTK   
 
 ## Code
 The code is available in 2 notebooks, one for visualisation and analysis, one for feature processing and model training.
